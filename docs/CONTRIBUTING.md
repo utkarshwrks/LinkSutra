@@ -122,5 +122,5 @@ Open a GitHub Issue with the `question` label — we're happy to help!
 ---
 
 <div align="center">
-Built with ❤️ in India 🇮🇳 — Made for the community, by the community
+Built with ❤️ in India 🇮🇳 — Made for the community, by the community.
 </div>
